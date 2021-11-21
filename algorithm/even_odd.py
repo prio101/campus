@@ -2,7 +2,7 @@
 def take_input():
   print("Please enter the input for the digits:")
   str = input("Enter:")
-
+  str
   return str
 
 def even_odd(str):
